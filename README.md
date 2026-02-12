@@ -24,5 +24,5 @@ The notebook includes data preprocessing, model training, evaluation, and visual
 - Random state set for reproducibility
 
 ## Author
-- Group 10: Victoria Veintimilla, Alejandro Toro, Sara Galan, Candela Castillo, Marta Heredia, Miguel Zubiaurre, Teresa Granados y Gonzalo Cegarra
+- Gonzalo Cegarra
 
